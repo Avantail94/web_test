@@ -132,7 +132,7 @@
 		<table class="table" style= "margin: 0 auto;">
 			<thead>
 				<tr>
-					<th><h4>주고받은 메시지 목록</h4></th>
+					<th><h4>채팅방 목록</h4></th>
 				</tr>
 			</thead>
 			<div style="overflow-y: auto; width: 100%; max-height: 450px;">
